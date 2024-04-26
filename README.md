@@ -2,13 +2,16 @@
 The dashboard provides a comprehensive overview of customer purchase behaviour at Global Mart Inc.
 Global Mart Inc. is a renowned retail giant offering a wide array of products, from electronics to fashion apparel, and prides itself on being a one-stop shop for quality goods at competitive prices. It aims to use advanced analytics to drive growth and enhance customer satisfaction.
 
-Here is how I used the data to build a Customer Purchase Behaviour Dashboard and provide actionable insights and recommendations for Global Mart Inc.
+- Here is how I used the data to build a Customer Purchase Behaviour Dashboard and provide actionable insights and recommendations for Global Mart Inc.
 
-Tool Used for Creating the Dashboard:
-Visualization Platform - hashtag#Excel hashtag#PivotTable
-Charts used - hashtag#BarChart hashtag#PieChart hashtag#ClusteredChart hashtag#AreaChart hashtag#ScatterPlot
+# Data Source:
+- The dataset used for this project was provided by 10Alytics.
 
-Here are the key insights: 👇 
+# Tool Used for Creating the Dashboard:
+- Visualization Platform - hashtag#Excel hashtag#PivotTable
+- Charts used - hashtag#BarChart hashtag#PieChart hashtag#ClusteredChart hashtag#AreaChart hashtag#ScatterPlot
+
+# Here are the key insights: 👇 
 
 1. Key Performance Indicators (KPIs):
 📊 Total Purchase Amount: $963.48M, reflecting strong consumer engagement.
@@ -30,11 +33,11 @@ Here are the key insights: 👇
 6. Income Analysis: 
 💰 Higher income correlates with higher spending.
 
-Purpose of Slicers:
-The slicers for Age Group, Education, and Region allow for interactive filtering of data to gain deeper insights into customer purchase behaviour based on specific demographic criteria
+# Purpose of Slicers:
+- The slicers for Age Group, Education, and Region allow for interactive filtering of data to gain deeper insights into customer purchase behaviour based on specific demographic criteria
 
 
-Recommendations:
+# Recommendations:
 1. Enhance Loyalty Program:
 🎁 Offer exclusive rewards to incentivize higher-tier memberships.
 
@@ -50,4 +53,5 @@ Recommendations:
 5. Customer Engagement Initiatives:
 🌟Launch interactive events and referral programs to foster loyalty.
 
-Implementing these recommendations will drive growth and enhance customer satisfaction for Global Mart Inc. 🚀
+# Conclusion:
+- Implementing these recommendations will drive growth and enhance customer satisfaction for Global Mart Inc. 🚀
