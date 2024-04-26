@@ -13,7 +13,7 @@ Global Mart Inc. is a renowned retail giant offering a wide array of products, f
 
 # Here are the key insights: 👇 
 
-1. (Key Performance Indicators (KPIs)):
+1. Key Performance Indicators (KPIs):
 📊 Total Purchase Amount: $963.48M, reflecting strong consumer engagement.
 😊 Total Satisfaction Score: 500.97K, maintaining a satisfactory level of customer satisfaction.
 🎉 Promotion Usage: 30.08%, there is room for improvement in leveraging promotions to drive sales and customer loyalty.
