@@ -1,4 +1,4 @@
-# Global Mart Inc. Customer Purchase Behavior
+# Global Mart Inc. Customer Purchase Behavior Analysis
 The dashboard provides a comprehensive overview of customer purchase behaviour at Global Mart Inc.
 Global Mart Inc. is a renowned retail giant offering a wide array of products, from electronics to fashion apparel, and prides itself on being a one-stop shop for quality goods at competitive prices. It aims to use advanced analytics to drive growth and enhance customer satisfaction.
 
