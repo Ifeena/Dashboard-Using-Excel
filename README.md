@@ -7,7 +7,7 @@ Global Mart Inc. is a renowned retail giant offering a wide array of products, f
 # Data Source:
 - The dataset used for this project was provided by 10Alytics.
 
-# Tool Used for Creating the Dashboard:
+# Data Cleaning and Preparation Tool:
 - Visualization Platform - hashtag#Excel hashtag#PivotTable
 - Charts used - hashtag#BarChart hashtag#PieChart hashtag#ClusteredChart hashtag#AreaChart hashtag#ScatterPlot
 
